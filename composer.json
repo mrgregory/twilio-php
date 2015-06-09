@@ -23,6 +23,6 @@
         "phpunit/phpunit": "4.5.*"
     },
     "autoload": {
-        "files": ["autoload.php"]
+        "classmap": ["Base","Services"]
     }
 }
