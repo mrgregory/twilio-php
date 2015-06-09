@@ -23,6 +23,6 @@
         "phpunit/phpunit": "4.5.*"
     },
     "autoload": {
-        "files": ["Services/Twilio.php"]
+        "files": ["autoload.php"]
     }
 }
